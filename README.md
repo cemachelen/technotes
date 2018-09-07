@@ -15,4 +15,4 @@ Contributions are welcome, contact me regarding this
 
 ## License
 
-License coming soon
+This project is licenced under the [MIT license](https://choosealicense.com/licenses/mit/). You are pretty much free to use this material in anyway you see fit
